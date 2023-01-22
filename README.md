@@ -1,2 +1,2 @@
-# Francisco
-A search engine built by web scraping and powered by Bing.
+# Rommie
+Real-time chat application using Node.js and web sockets.
