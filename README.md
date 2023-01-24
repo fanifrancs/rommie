@@ -1,2 +1,2 @@
 # Rommie
-Real-time chat application using Node.js and web sockets.
+Real-time chat application using NodeJS and web sockets
